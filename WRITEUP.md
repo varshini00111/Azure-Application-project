@@ -1,5 +1,4 @@
 # Write-up: Deployment Choice (VM vs App Service)
-
 ## 1. Analysis of Virtual Machine (VM)
 
 ### Cost
