@@ -18,8 +18,6 @@ Availability depends on how well the VM is managed. If the VM goes down, manual 
 
 Using a VM requires setting up the environment manually (installing Python, dependencies, configuring server, etc.). Deployment and updates are more complex and time-consuming.
 
----
-
 ## 2. Analysis of Azure App Service
 
 ### Cost
@@ -37,8 +35,6 @@ Azure manages uptime and reliability. The platform ensures better availability c
 ### Workflow
 
 Deployment is simple. Code can be directly connected through GitHub, and Azure handles the environment setup. This reduces development and deployment complexity.
-
----
 
 ## 3. Final Choice: Azure App Service
 
